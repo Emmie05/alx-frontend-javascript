@@ -1,6 +1,3 @@
-// 6-string-interpolation.js
-// @flow
-
 export default function getSanFranciscoDescription() {
     const year = 2017;
     const budget = {
