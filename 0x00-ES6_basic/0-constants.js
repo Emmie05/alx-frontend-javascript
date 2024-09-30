@@ -1,4 +1,3 @@
-// 0-constants.js
 // Exports three functions: taskFirst, getLast, and taskNext
 
 export function taskFirst() {
