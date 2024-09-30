@@ -1,5 +1,6 @@
 // 0-constants.js
 // Exports three functions: taskFirst, getLast, and taskNext
+
 export function taskFirst() {
     const task = 'I prefer const when I can.';
     return task;
